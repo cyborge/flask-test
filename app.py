@@ -1,5 +1,5 @@
-import pip
-pip.main(['install', 'Flask'])
+# import pip
+# pip.main(['install', 'Flask'])
 
 from flask import Flask
 app = Flask(__name__)
